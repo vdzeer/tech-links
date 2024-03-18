@@ -1,2 +1,2 @@
-# users-tech-links
+# tech-links
 Stack: TypeScript, Next.js, Prisma, PostgreSQL
